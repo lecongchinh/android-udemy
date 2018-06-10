@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caculator App</string>
+    <string name="enter_two_numbers">Enter two numbers</string>
+</resources>
